@@ -1,0 +1,16 @@
+.txt-nome{
+    color: var( --cor-floral-white);
+    border: 2px solid var(--cor-floral-white);
+    padding: 1em;
+    border-radius: 14px;
+    font-weight: 600;
+    background-color: var(--cor-floral-white);
+    color: var(--cor-alura);
+}
+
+.txt-nome:hover{
+    background-color: var(--cor-alura);
+    color: var(--cor-floral-white);
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.8);
+}
+
