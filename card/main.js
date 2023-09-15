@@ -1,3 +1,4 @@
+import "./src/components/elements/colors.css"
 import Card from "./src/components/Card"
 
 

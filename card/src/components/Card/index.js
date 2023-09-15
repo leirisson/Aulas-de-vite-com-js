@@ -1,14 +1,19 @@
 import "./style.css"
 function Card(){
     return `
-        <div class="card" id="card">
-            <div class="" id="front">
+
+    <section class="container">
+        <div class="flip" id="card">
+
+            <div class="face" id="front">
+            FRONT
             </div>
-            <div class="" id="back">
+            <div class="face" id="back">
+            BACK
             </div>
         </div>
 
-    
+    </section>
     `
 }
 
