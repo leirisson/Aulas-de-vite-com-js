@@ -1,6 +1,6 @@
 import "./style.css"
 function Card(){
-    return `
+    return /*html*/`
 
     <section class="container">
         <div class="flip" id="card">
